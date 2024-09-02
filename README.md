@@ -1,14 +1,4 @@
-# POS-JAVA-Netbeans-MySql
-POS (ponit of sale Project ) -step by step coding for beginners-JAVA-Netbeans-MySql   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5CX5PY)
 
------------------------------------------------------------------------------------------------------------------
-|               🔥       Don't Click This Link: https://bit.ly/3v8PLxm                        |
------------------------------------------------------------------------------------------------------------------
-
- We  Use :
-- Java Programming Language: https://java.com/en/
-- NetBeans Editor:  https://netbeans.apache.org/download/...
-- MySQL Database/ PhpM
 # Java POS System
 
 This Java-based Point of Sale (POS) system is designed to streamline retail transactions, inventory management, and customer interactions. Built using Java, NetBeans, and MySQL, this system provides an intuitive user interface and robust backend support to manage daily sales operations efficiently.
